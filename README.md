@@ -1,11 +1,14 @@
 # Python Basics – Learning Repository
 
-This repository contains my self-learning journey in the fundamentals of Python. 
-I have already learned the basic concepts of Python, and this repository serves as 
-a way to review those fundamentals and maintain consistent practice.
+This repository documents my self-learning and revision process in the fundamentals of Python. 
+As an Artificial Intelligence undergraduate student, Python is a core language in my academic 
+path, and building strong fundamentals is essential before progressing to machine learning 
+and AI-focused development.
 
-The focus of this repository is to reinforce core concepts through repetition,
-practice exercises, and small examples.
+This repository serves as a structured space for consistent practice, reinforcing core 
+Python concepts, and maintaining fluency in the language through repetition and hands-on 
+exercises.
+
 
 # This repository includes:
 - arithmetics in python
